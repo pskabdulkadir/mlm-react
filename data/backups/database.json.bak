@@ -1,0 +1,70 @@
+{
+  "_backup_of": "../database.json",
+  "createdAt": "2026-01-04T00:00:00.000Z",
+  "note": "Full backup of database.json prior to removing demo/test users. Kept for recovery.",
+  "content": {
+    "users": [
+      {
+        "id": "admin-001",
+        "fullName": "Abdulkadir Kan",
+        "email": "psikologabdulkadirkan@gmail.com",
+        "password": "$2b$10$VfeKBP1G65r1bPMnoqre.eLy.FrBz7aStpJEwFWDfsFdU//VyX5XK",
+        "role": "admin",
+        "isActive": true,
+        "wallet": {
+          "balance": 10,
+          "totalEarnings": 10,
+          "sponsorBonus": 0,
+          "careerBonus": 0,
+          "passiveIncome": 0,
+          "leadershipBonus": 0
+        },
+        "careerLevel": {
+          "id": "1",
+          "name": "Nefs-i Emmare"
+        },
+        "referralCode": "ADMIN001",
+        "sponsorId": null,
+        "memberId": "ADMIN001",
+        "lastLoginDate": "2026-01-04T09:46:50.144Z",
+        "directReferrals": 11,
+        "totalTeamSize": 20
+      }
+    ],
+    "products": [],
+    "paymentRequests": [],
+    "clonePages": [],
+    "walletTransactions": [],
+    "productPurchases": [],
+    "adminLogs": [],
+    "memberLogs": [],
+    "memberActivities": [],
+    "announcements": [],
+    "monolineCommissions": [],
+    "passiveIncomePool": {
+      "totalAmount": 0,
+      "lastUpdated": "2026-01-04T00:00:00.000Z"
+    },
+    "companyFund": {
+      "totalAmount": 0,
+      "lastUpdated": "2026-01-04T00:00:00.000Z",
+      "transactions": []
+    },
+    "passiveIncomeDistributions": [],
+    "transactions": [],
+    "settings": {
+      "systemSettings": {
+        "maxCapacity": 1000000,
+        "autoPlacement": true,
+        "registrationEnabled": true,
+        "maintenanceMode": false
+      },
+      "commissionSettings": {
+        "sponsorBonusRate": 10,
+        "careerBonusRate": 25,
+        "passiveIncomeRate": 5,
+        "systemFundRate": 60
+      }
+    }
+  }
+}

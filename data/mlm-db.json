@@ -1,0 +1,1100 @@
+{
+  "users": [
+    {
+      "id": "admin-001",
+      "memberId": "ak0000001",
+      "fullName": "Abdulkadir Kan",
+      "email": "psikologabdulkadirkan@gmail.com",
+      "phone": "+90 542 578 37 48",
+      "password": "8553e2514df607ab2251298c0e29f408af59f39c2027d6978fe4ff9628f9574b",
+      "role": "admin",
+      "referralCode": "AK0001",
+      "membershipType": "entry",
+      "membershipStartDate": "2024-01-01T00:00:00.000Z",
+      "isActive": true,
+      "careerLevel": {
+        {
+          "users": [],
+          "transactions": [],
+          "paymentRequests": [],
+          "spiritualCalculations": [],
+          "clonePages": [],
+          "products": [],
+          "investments": [],
+          "withdrawals": [],
+          "productPurchases": [],
+          "productCommissions": [],
+          "settings": {
+            "systemSettings": {
+              "maxCapacity": 1000000,
+              "autoPlacement": true,
+              "registrationEnabled": true,
+              "maintenanceMode": false,
+              "lastMemberNumber": 0,
+              "performanceMode": true,
+              "cacheEnabled": true,
+              "batchSize": 100
+            },
+            "commissionSettings": {
+              "sponsorBonusRate": 10,
+              "careerBonusRate": 25,
+              "passiveIncomeRate": 5,
+              "systemFundRate": 60
+            },
+            "socialMedia": {
+              "facebook": "",
+              "instagram": "",
+              "twitter": "",
+              "linkedin": "",
+              "youtube": "",
+              "tiktok": "",
+              "whatsapp": ""
+            }
+          },
+          "performanceMetrics": {
+            "totalUsers": 0,
+            "activeUsers": 0,
+            "lastOptimized": "2026-01-04T00:00:00.000Z",
+            "cacheHitRate": 0,
+            "averageResponseTime": 0
+          },
+          "announcements": [],
+          "memberSessions": [],
+          "memberLogs": [],
+          "adminLogs": [],
+          "memberActivities": [],
+          "cryptoRates": [],
+          "memberActivities": [],
+          "adminLogs": [],
+          "memberLogs": []
+        }
+      "visitCount": 1,
+      "conversionCount": 0,
+      "customizations": {
+        "customMessage": "Manevi yolculuğunuzda rehberiniz olacağım. - Abdulkadir Kan"
+      }
+    },
+    {
+      "userId": "ce28efb8-f712-44f1-9b80-3f857459eb3e",
+      "slug": "ak0000002",
+      "isActive": true,
+      "visitCount": 0,
+      "conversionCount": 0,
+      "customizations": {
+        "customMessage": "Test User üzerinden sisteme katılın ve manevi yolculuğunuza başlayın!"
+      }
+    },
+    {
+      "userId": "admin-001",
+      "slug": "ak0000001",
+      "isActive": true,
+      "visitCount": 0,
+      "conversionCount": 0,
+      "customizations": {
+        "customMessage": "Abdulkadir Kan üzerinden sisteme katılın ve manevi yolculuğunuza başlayın!"
+      }
+    },
+    {
+      "userId": "dcbaecc4-c464-43d6-8c26-5dec88c663cd",
+      "slug": "ak0000003",
+      "isActive": true,
+      "visitCount": 0,
+      "conversionCount": 0,
+      "customizations": {
+        "customMessage": "sultan kan üzerinden sisteme katılın ve manevi yolculuğunuza başlayın!"
+      }
+    },
+    {
+      "userId": "d8bc55ae-9c38-41b0-9076-ec260050c6fb",
+      "slug": "ak0000004",
+      "isActive": true,
+      "visitCount": 0,
+      "conversionCount": 0,
+      "customizations": {
+        "customMessage": "test8 üzerinden sisteme katılın ve manevi yolculuğunuza başlayın!"
+      }
+    },
+    {
+      "userId": "77b20263-a94e-46a8-9563-c6d6d24989d8",
+      "slug": "ak0000005",
+      "isActive": true,
+      "visitCount": 0,
+      "conversionCount": 0,
+      "customizations": {
+        "customMessage": "test1 üzerinden sisteme katılın ve manevi yolculuğunuza başlayın!"
+      }
+    }
+  ],
+  "products": [],
+  "investments": [],
+  "withdrawals": [],
+  "productPurchases": [],
+  "productCommissions": [],
+  "settings": {
+    "systemSettings": {
+      "maxCapacity": 1000000,
+      "autoPlacement": true,
+      "registrationEnabled": true,
+      "maintenanceMode": false,
+      "lastMemberNumber": 5,
+      "performanceMode": true,
+      "cacheEnabled": true,
+      "batchSize": 100
+    },
+    "commissionSettings": {
+      "sponsorBonusRate": 10,
+      "careerBonusRate": 25,
+      "passiveIncomeRate": 5,
+      "systemFundRate": 60
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "linkedin": "",
+      "youtube": "",
+      "tiktok": "",
+      "whatsapp": ""
+    }
+  },
+  "performanceMetrics": {
+    "totalUsers": 1,
+    "activeUsers": 1,
+    "lastOptimized": "2025-07-20T17:18:55.923Z",
+    "cacheHitRate": 0,
+    "averageResponseTime": 0
+  },
+  "announcements": [
+    {
+      "id": "announce-001",
+      "title": "Sisteme Hoş Geldiniz",
+      "content": "Kutbul Zaman - Manevi Rehberim sistemine hoş geldiniz. Ruhsal ve finansal gelişim yolculuğunuz başlıyor.",
+      "type": "info",
+      "priority": "high",
+      "targetAudience": "all",
+      "startDate": "2025-07-20T17:18:55.923Z",
+      "isActive": true,
+      "createdBy": "admin-001",
+      "createdAt": "2025-07-20T17:18:55.923Z"
+    }
+  ],
+  "memberSessions": [
+    {
+      "id": "2bddaaf3-45e1-4e64-bae6-f833f4578985",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZG1pbi0wMDEiLCJlbWFpbCI6InBzaWtvbG9nYWJkdWxrYWRpcmthbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJtZW1iZXJJZCI6ImFrMDAwMDAwMSIsImlhdCI6MTc2NzExNDQwMywiZXhwIjoxNzY3NzE5MjAzLCJhdWQiOiJrdXRidWwtemFtYW4tdXNlcnMiLCJpc3MiOiJrdXRidWwtemFtYW4ifQ.8NP6wCM7GP1RHIgl5zyynO1-osoOv9cWJRLT_grBEA4",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.10 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "loginTime": "2025-12-30T17:06:43.649Z",
+      "isActive": true,
+      "lastActivity": "2025-12-30T17:06:43.649Z"
+    },
+    {
+      "id": "0059977b-2703-441a-a5a3-4f4719620955",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZG1pbi0wMDEiLCJlbWFpbCI6InBzaWtvbG9nYWJkdWxrYWRpcmthbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJtZW1iZXJJZCI6ImFrMDAwMDAwMSIsImlhdCI6MTc2NzExNTI1NSwiZXhwIjoxNzY3NzIwMDU1LCJhdWQiOiJrdXRidWwtemFtYW4tdXNlcnMiLCJpc3MiOiJrdXRidWwtemFtYW4ifQ.NHzzFnvzzF-FBFYFWE2NVXmlDMgVD0qd-LnzeyQVZpI",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.10 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "loginTime": "2025-12-30T17:20:55.183Z",
+      "isActive": true,
+      "lastActivity": "2025-12-30T17:20:55.183Z"
+    },
+    {
+      "id": "40e2be34-e64b-4ad1-9db3-69282d284263",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZG1pbi0wMDEiLCJlbWFpbCI6InBzaWtvbG9nYWJkdWxrYWRpcmthbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJtZW1iZXJJZCI6ImFrMDAwMDAwMSIsImlhdCI6MTc2NzExNTY1MSwiZXhwIjoxNzY3NzIwNDUxLCJhdWQiOiJrdXRidWwtemFtYW4tdXNlcnMiLCJpc3MiOiJrdXRidWwtemFtYW4ifQ.peJei5HA_tJYcpgCB3ofkoLpBR8InyayOgM1ySeLpMY",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.30 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "loginTime": "2025-12-30T17:27:31.956Z",
+      "isActive": true,
+      "lastActivity": "2025-12-30T17:27:31.956Z"
+    },
+    {
+      "id": "88af0733-a8c8-421e-aa72-0be22bc0e660",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZG1pbi0wMDEiLCJlbWFpbCI6InBzaWtvbG9nYWJkdWxrYWRpcmthbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJtZW1iZXJJZCI6ImFrMDAwMDAwMSIsImlhdCI6MTc2NzE3MTg5OSwiZXhwIjoxNzY3Nzc2Njk5LCJhdWQiOiJrdXRidWwtemFtYW4tdXNlcnMiLCJpc3MiOiJrdXRidWwtemFtYW4ifQ.R_DdJCoMKPiSVos55A0A4iqW6sVh8-GZ4FTpxxXuTzo",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.30 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "loginTime": "2025-12-31T09:04:59.282Z",
+      "isActive": true,
+      "lastActivity": "2025-12-31T09:04:59.282Z"
+    },
+    {
+      "id": "50b1bcb0-2210-4610-9c2b-c29f8266061c",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZG1pbi0wMDEiLCJlbWFpbCI6InBzaWtvbG9nYWJkdWxrYWRpcmthbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJtZW1iZXJJZCI6ImFrMDAwMDAwMSIsImlhdCI6MTc2NzI2MTIxNSwiZXhwIjoxNzY3ODY2MDE1LCJhdWQiOiJrdXRidWwtemFtYW4tdXNlcnMiLCJpc3MiOiJrdXRidWwtemFtYW4ifQ.PDbGXCoNAnfk4f44up5YAR4X6TG-PDSMaa1YHv__jik",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "loginTime": "2026-01-01T09:53:35.263Z",
+      "isActive": true,
+      "lastActivity": "2026-01-01T09:53:35.263Z"
+    },
+    {
+      "id": "4c6cde71-30f2-416d-8f0c-09a1596db611",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZG1pbi0wMDEiLCJlbWFpbCI6InBzaWtvbG9nYWJkdWxrYWRpcmthbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJtZW1iZXJJZCI6ImFrMDAwMDAwMSIsImlhdCI6MTc2NzI2MzE2OCwiZXhwIjoxNzY3ODY3OTY4LCJhdWQiOiJrdXRidWwtemFtYW4tdXNlcnMiLCJpc3MiOiJrdXRidWwtemFtYW4ifQ.R42xtO0Z7pRaRLP85YjdENtUI0_6ciJpLa6bdxioaFY",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "loginTime": "2026-01-01T10:26:08.444Z",
+      "isActive": true,
+      "lastActivity": "2026-01-01T10:26:08.444Z"
+    },
+    {
+      "id": "cb11cc56-c24d-4b35-b201-78f590c6a23e",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZG1pbi0wMDEiLCJlbWFpbCI6InBzaWtvbG9nYWJkdWxrYWRpcmthbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJtZW1iZXJJZCI6ImFrMDAwMDAwMSIsImlhdCI6MTc2NzI2NDYxMCwiZXhwIjoxNzY3ODY5NDEwLCJhdWQiOiJrdXRidWwtemFtYW4tdXNlcnMiLCJpc3MiOiJrdXRidWwtemFtYW4ifQ.C5uWogxpGAcw-FSWztYyaRocQvBTxfctE2_NoUZJd5I",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "loginTime": "2026-01-01T10:50:10.802Z",
+      "isActive": true,
+      "lastActivity": "2026-01-01T10:50:10.802Z"
+    },
+    {
+      "id": "b564cc2e-0a5e-43c3-af72-30d0e16780ac",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "sessionToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJhZG1pbi0wMDEiLCJlbWFpbCI6InBzaWtvbG9nYWJkdWxrYWRpcmthbkBnbWFpbC5jb20iLCJyb2xlIjoiYWRtaW4iLCJtZW1iZXJJZCI6ImFrMDAwMDAwMSIsImlhdCI6MTc2NzI2NTczMCwiZXhwIjoxNzY3ODcwNTMwLCJhdWQiOiJrdXRidWwtemFtYW4tdXNlcnMiLCJpc3MiOiJrdXRidWwtemFtYW4ifQ.mWQJLOpMrX31r41NCsYcVxCV050ve4YqJEuvYkuPxww",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "loginTime": "2026-01-01T11:08:50.946Z",
+      "isActive": true,
+      "lastActivity": "2026-01-01T11:08:50.946Z"
+    }
+  ],
+  "memberLogs": [
+    {
+      "id": "cbec1930-2fbb-493e-a16a-45d9099a2e29",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "a80d7cbf-e5ca-4e71-bac8-d80c5efb98c4",
+      "timestamp": "2025-10-29T07:30:21.455Z"
+    },
+    {
+      "id": "707cb031-6c0c-457d-ae9c-f65222ced8de",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "a80d7cbf-e5ca-4e71-bac8-d80c5efb98c4",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-10-29T07:30:21.456Z"
+      },
+      "timestamp": "2025-10-29T07:30:21.456Z"
+    },
+    {
+      "id": "074bc29a-8978-4e96-becc-5d0694f1138e",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "9db5a9f8-4033-4b47-b8fd-31377b38c6b1",
+      "timestamp": "2025-10-30T20:56:36.569Z"
+    },
+    {
+      "id": "a8c39db2-0a11-44c9-b679-d57b717ed60a",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "9db5a9f8-4033-4b47-b8fd-31377b38c6b1",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-10-30T20:56:36.570Z"
+      },
+      "timestamp": "2025-10-30T20:56:36.571Z"
+    },
+    {
+      "id": "f3de8a76-f28c-4b93-b225-e8ff9e19d3c5",
+      "memberId": "ak0000004",
+      "userId": "d8bc55ae-9c38-41b0-9076-ec260050c6fb",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "e5a3ccd9-eb8c-4816-b04b-722d728e6527",
+      "timestamp": "2025-10-30T21:06:25.511Z"
+    },
+    {
+      "id": "48fe7ffd-0643-41cf-8578-82b7f6faae61",
+      "memberId": "ak0000004",
+      "userId": "d8bc55ae-9c38-41b0-9076-ec260050c6fb",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "e5a3ccd9-eb8c-4816-b04b-722d728e6527",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "member",
+        "timestamp": "2025-10-30T21:06:25.511Z"
+      },
+      "timestamp": "2025-10-30T21:06:25.512Z"
+    },
+    {
+      "id": "854ce714-0311-44d1-8e37-4f8b18be3cf7",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "ebb2dd3e-027c-403c-9090-9bb2ecea3f95",
+      "timestamp": "2025-10-30T21:09:07.354Z"
+    },
+    {
+      "id": "53da8e30-0f14-4fc1-a035-5158aaf174cd",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "ebb2dd3e-027c-403c-9090-9bb2ecea3f95",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-10-30T21:09:07.355Z"
+      },
+      "timestamp": "2025-10-30T21:09:07.357Z"
+    },
+    {
+      "id": "cdc041af-3514-49e4-9932-e3f5ada70b9d",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "378bc52d-0876-4153-8aa2-45e6b267e06d",
+      "timestamp": "2025-11-01T08:12:23.786Z"
+    },
+    {
+      "id": "2d8ff723-ba17-49a0-aebe-a3cfcb3dc37a",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "378bc52d-0876-4153-8aa2-45e6b267e06d",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-11-01T08:12:23.787Z"
+      },
+      "timestamp": "2025-11-01T08:12:23.788Z"
+    },
+    {
+      "id": "eac1d675-f9e2-4ecf-b3cd-f1123c3e547a",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "e3e071c7-b0d7-4b1f-b6dc-33b84ee4b8af",
+      "timestamp": "2025-11-01T08:28:56.757Z"
+    },
+    {
+      "id": "f26c80f5-7dae-4aa1-b0f0-99c9ba09de0e",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "e3e071c7-b0d7-4b1f-b6dc-33b84ee4b8af",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-11-01T08:28:56.758Z"
+      },
+      "timestamp": "2025-11-01T08:28:56.759Z"
+    },
+    {
+      "id": "40f0846a-5d1c-428d-9b2a-7a3c988067a9",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "20b543da-19fc-4b3d-9a9d-465928096015",
+      "timestamp": "2025-11-02T07:18:32.447Z"
+    },
+    {
+      "id": "77e08f7f-5b4d-446a-b674-5da8024f7e1c",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "20b543da-19fc-4b3d-9a9d-465928096015",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-11-02T07:18:32.448Z"
+      },
+      "timestamp": "2025-11-02T07:18:32.449Z"
+    },
+    {
+      "id": "5fa422ef-1b18-41f4-af92-64f4fa4208b0",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "81ca101a-53e5-47a6-9a47-81d68c000b52",
+      "timestamp": "2025-11-03T06:53:22.578Z"
+    },
+    {
+      "id": "c117dc9e-17fc-4ab2-b39c-ddfebd8b55e0",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+      "sessionId": "81ca101a-53e5-47a6-9a47-81d68c000b52",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-11-03T06:53:22.579Z"
+      },
+      "timestamp": "2025-11-03T06:53:22.580Z"
+    },
+    {
+      "id": "50e86388-0661-4415-b9e3-1393ca86f31f",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.10 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "sessionId": "2bddaaf3-45e1-4e64-bae6-f833f4578985",
+      "timestamp": "2025-12-30T17:06:43.651Z"
+    },
+    {
+      "id": "b60773ee-479a-4240-bcf2-d10d7a5b9080",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.10 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "sessionId": "2bddaaf3-45e1-4e64-bae6-f833f4578985",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-12-30T17:06:43.652Z"
+      },
+      "timestamp": "2025-12-30T17:06:43.653Z"
+    },
+    {
+      "id": "e497a511-706a-4f71-a922-0240a74606a9",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.10 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "sessionId": "0059977b-2703-441a-a5a3-4f4719620955",
+      "timestamp": "2025-12-30T17:20:55.185Z"
+    },
+    {
+      "id": "e4eb97d4-2d6a-401c-b5e8-eb44be825ca5",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.10 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "sessionId": "0059977b-2703-441a-a5a3-4f4719620955",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-12-30T17:20:55.186Z"
+      },
+      "timestamp": "2025-12-30T17:20:55.187Z"
+    },
+    {
+      "id": "e38435d8-7a4e-4285-9b96-0c16e5a76a1c",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.30 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "sessionId": "40e2be34-e64b-4ad1-9db3-69282d284263",
+      "timestamp": "2025-12-30T17:27:31.958Z"
+    },
+    {
+      "id": "499d8aca-27e7-4344-a2d6-0e6d794f6d95",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.30 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "sessionId": "40e2be34-e64b-4ad1-9db3-69282d284263",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-12-30T17:27:31.960Z"
+      },
+      "timestamp": "2025-12-30T17:27:31.960Z"
+    },
+    {
+      "id": "97778959-9a39-4cec-8327-d23f27b06f27",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.30 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "sessionId": "88af0733-a8c8-421e-aa72-0be22bc0e660",
+      "timestamp": "2025-12-31T09:04:59.285Z"
+    },
+    {
+      "id": "0c274963-dd91-4742-85dd-9615ab9f4013",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::ffff:127.0.0.1",
+      "ipAddress": "::ffff:127.0.0.1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.30 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+      "sessionId": "88af0733-a8c8-421e-aa72-0be22bc0e660",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2025-12-31T09:04:59.287Z"
+      },
+      "timestamp": "2025-12-31T09:04:59.288Z"
+    },
+    {
+      "id": "14a46163-4f33-4f00-914a-166d60f9e911",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::1",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "sessionId": "50b1bcb0-2210-4610-9c2b-c29f8266061c",
+      "timestamp": "2026-01-01T09:53:35.286Z"
+    },
+    {
+      "id": "b76f08a8-2a37-44d9-b145-18997d4fecc9",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::1",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "sessionId": "50b1bcb0-2210-4610-9c2b-c29f8266061c",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2026-01-01T09:53:35.298Z"
+      },
+      "timestamp": "2026-01-01T09:53:35.307Z"
+    },
+    {
+      "id": "af985626-af99-4667-a0a5-96ab1674f15e",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::1",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "sessionId": "4c6cde71-30f2-416d-8f0c-09a1596db611",
+      "timestamp": "2026-01-01T10:26:08.466Z"
+    },
+    {
+      "id": "347abf1f-8e14-4b05-9ce0-7f5422d5f5b4",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::1",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "sessionId": "4c6cde71-30f2-416d-8f0c-09a1596db611",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2026-01-01T10:26:08.482Z"
+      },
+      "timestamp": "2026-01-01T10:26:08.488Z"
+    },
+    {
+      "id": "1d6f5a90-ed78-47f8-9472-ce4b708f61e5",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::1",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "sessionId": "cb11cc56-c24d-4b35-b201-78f590c6a23e",
+      "timestamp": "2026-01-01T10:50:10.811Z"
+    },
+    {
+      "id": "9e9409b9-e0e1-4e58-b2f9-315840b49fdd",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::1",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "sessionId": "cb11cc56-c24d-4b35-b201-78f590c6a23e",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2026-01-01T10:50:10.818Z"
+      },
+      "timestamp": "2026-01-01T10:50:10.819Z"
+    },
+    {
+      "id": "3289bac6-cfbf-42ad-8bb2-1bb4ed91e58f",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "SESSION_START",
+      "details": "New session started from ::1",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "sessionId": "b564cc2e-0a5e-43c3-af72-30d0e16780ac",
+      "timestamp": "2026-01-01T11:08:50.957Z"
+    },
+    {
+      "id": "d0ea70fc-f708-46c7-826a-e461d2f70d40",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "action": "LOGIN",
+      "details": "Successful login from ::1",
+      "ipAddress": "::1",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+      "sessionId": "b564cc2e-0a5e-43c3-af72-30d0e16780ac",
+      "metadata": {
+        "loginMethod": "email_password",
+        "userRole": "admin",
+        "timestamp": "2026-01-01T11:08:50.962Z"
+      },
+      "timestamp": "2026-01-01T11:08:50.964Z"
+    }
+  ],
+  "cryptoRates": [
+    {
+      "btc_try": 3772679,
+      "btc_usd": 87823,
+      "btc_eur": 74854,
+      "usd_try": 67,
+      "eur_try": 73,
+      "lastUpdated": "2026-01-01T11:51:37.041Z",
+      "source": "admin",
+      "btc_24h_change": -1.1848782659637012
+    }
+  ],
+  "memberActivities": [
+    {
+      "id": "f61e7c0b-bcd6-4965-a197-5f912fb8c634",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "loginTime": "2025-10-29T07:30:21.457Z"
+      },
+      "timestamp": "2025-10-29T07:30:21.457Z"
+    },
+    {
+      "id": "3f088f7b-d6c4-4b55-b103-3afaf74f5750",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "loginTime": "2025-10-30T20:56:36.572Z"
+      },
+      "timestamp": "2025-10-30T20:56:36.572Z"
+    },
+    {
+      "id": "42cc72f7-1a11-4f47-ba1b-6ea89572c9d8",
+      "memberId": "ak0000004",
+      "userId": "d8bc55ae-9c38-41b0-9076-ec260050c6fb",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "loginTime": "2025-10-30T21:06:25.513Z"
+      },
+      "timestamp": "2025-10-30T21:06:25.514Z"
+    },
+    {
+      "id": "fb57c822-9b30-41b7-bc7f-c7c416b2eb48",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "loginTime": "2025-10-30T21:09:07.358Z"
+      },
+      "timestamp": "2025-10-30T21:09:07.358Z"
+    },
+    {
+      "id": "7150beda-ca2f-4178-9741-de840ccc9794",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "loginTime": "2025-11-01T08:12:23.789Z"
+      },
+      "timestamp": "2025-11-01T08:12:23.789Z"
+    },
+    {
+      "id": "ac9770e4-4ccd-4d4f-b816-3efbec0daeab",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "loginTime": "2025-11-01T08:28:56.760Z"
+      },
+      "timestamp": "2025-11-01T08:28:56.760Z"
+    },
+    {
+      "id": "deaa5c28-7bf3-4c0c-bcd7-a766aeffc3c2",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "loginTime": "2025-11-02T07:18:32.450Z"
+      },
+      "timestamp": "2025-11-02T07:18:32.451Z"
+    },
+    {
+      "id": "9d36873c-2097-47f8-9050-0980c6cdc05a",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+        "loginTime": "2025-11-03T06:53:22.581Z"
+      },
+      "timestamp": "2025-11-03T06:53:22.581Z"
+    },
+    {
+      "id": "f8375f8e-4e3d-4c4c-a627-05c4e18081be",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.10 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+        "loginTime": "2025-12-30T17:06:43.655Z"
+      },
+      "timestamp": "2025-12-30T17:06:43.655Z"
+    },
+    {
+      "id": "9c9e9b09-8d36-4555-9dc9-c2041b7499bc",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.10 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+        "loginTime": "2025-12-30T17:20:55.188Z"
+      },
+      "timestamp": "2025-12-30T17:20:55.188Z"
+    },
+    {
+      "id": "688a6456-dfe0-4e1a-9073-32329d4d1a74",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.30 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+        "loginTime": "2025-12-30T17:27:31.962Z"
+      },
+      "timestamp": "2025-12-30T17:27:31.962Z"
+    },
+    {
+      "id": "5db2ac4b-f753-4991-b7a8-d59051a2aaac",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::ffff:127.0.0.1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Builder.io/0.2.30 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36",
+        "loginTime": "2025-12-31T09:04:59.290Z"
+      },
+      "timestamp": "2025-12-31T09:04:59.291Z"
+    },
+    {
+      "id": "dd8f8b52-bf02-407b-a91d-5a4fe4a732d0",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "loginTime": "2026-01-01T09:53:35.318Z"
+      },
+      "timestamp": "2026-01-01T09:53:35.325Z"
+    },
+    {
+      "id": "bd9b7529-b008-45fa-81a8-78c85b45f55d",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "loginTime": "2026-01-01T10:26:08.498Z"
+      },
+      "timestamp": "2026-01-01T10:26:08.507Z"
+    },
+    {
+      "id": "8beead40-6d93-4b86-9b45-167d040d2982",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "loginTime": "2026-01-01T10:50:10.825Z"
+      },
+      "timestamp": "2026-01-01T10:50:10.827Z"
+    },
+    {
+      "id": "7a19c45e-fff6-4e69-b682-3843b593ac21",
+      "memberId": "ak0000001",
+      "userId": "admin-001",
+      "activityType": "AUTHENTICATION",
+      "description": "User logged in successfully",
+      "data": {
+        "ipAddress": "::1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+        "loginTime": "2026-01-01T11:08:50.968Z"
+      },
+      "timestamp": "2026-01-01T11:08:50.969Z"
+    }
+  ],
+  "adminLogs": [
+    {
+      "id": "9bbd35aa-be42-4281-8cf7-5442b07c8606",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-10-29T07:30:21.459Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "578fd5db-4b73-4c5a-9e03-3f35a7d7c1fd",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-10-30T20:56:36.575Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "8ec6b04b-a463-4d1b-b223-d7906dc67575",
+      "action": "CREATE_USER",
+      "targetUserId": "d8bc55ae-9c38-41b0-9076-ec260050c6fb",
+      "details": "Created user: test8 (demo@kutbulzaman.com) with member ID: ak0000004",
+      "adminId": "system",
+      "timestamp": "2025-10-30T21:05:27.130Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "66eee99a-9ad4-40dd-9124-baead7db3277",
+      "action": "USER_REGISTER",
+      "targetUserId": "d8bc55ae-9c38-41b0-9076-ec260050c6fb",
+      "details": "New user registered: test8 (demo@kutbulzaman.com) with sponsor: AK0001",
+      "adminId": "system",
+      "timestamp": "2025-10-30T21:05:27.132Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "26a57b74-87f5-4d32-8303-9f880eeb4124",
+      "action": "USER_LOGIN",
+      "targetUserId": "d8bc55ae-9c38-41b0-9076-ec260050c6fb",
+      "details": "User test8 (ak0000004) logged in from ::ffff:127.0.0.1",
+      "adminId": "d8bc55ae-9c38-41b0-9076-ec260050c6fb",
+      "timestamp": "2025-10-30T21:06:25.516Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "796576d4-cb76-4bf6-bc5b-16bbf6b85f27",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-10-30T21:09:07.360Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "5ec6976f-d695-46ab-9687-5b990fb7cfc7",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-11-01T08:12:23.791Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "cd44db9e-947b-4339-b29a-6ae2f7346bc2",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-11-01T08:28:56.762Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "d31bca20-6cf4-43a0-a341-742bffa04655",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-11-02T07:18:32.453Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "178a6b90-c0db-4741-af94-84ce68da9880",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-11-03T06:53:22.583Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "9238481c-c01d-4e82-9f2f-b7bb9b2f9ca9",
+      "action": "CREATE_USER",
+      "targetUserId": "77b20263-a94e-46a8-9563-c6d6d24989d8",
+      "details": "Created user: test1 (demo@kutbulzaman.com) with member ID: ak0000005",
+      "adminId": "system",
+      "timestamp": "2025-11-03T07:00:10.932Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "a82e1dcd-9654-4c8f-970f-7dccadfc9d00",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-12-30T17:06:43.658Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "240e82a8-efd2-4ba7-ab6b-98ca8668388b",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-12-30T17:20:55.190Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "01ab3d36-eb8a-4740-bc4c-879526c9c3e4",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-12-30T17:27:31.964Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "18729818-edd0-478e-80e2-72cc34c8e577",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::ffff:127.0.0.1",
+      "adminId": "admin-001",
+      "timestamp": "2025-12-31T09:04:59.294Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "2327b510-a323-4381-8a60-5faa96cb2d10",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::1",
+      "adminId": "admin-001",
+      "timestamp": "2026-01-01T09:53:35.345Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "6649dc33-1e63-4298-89ad-b606df952ffe",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::1",
+      "adminId": "admin-001",
+      "timestamp": "2026-01-01T10:26:08.531Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "887d502e-8687-4d83-83a7-d9457fd2a041",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::1",
+      "adminId": "admin-001",
+      "timestamp": "2026-01-01T10:50:10.834Z",
+      "ipAddress": "system"
+    },
+    {
+      "id": "81cd6478-f1b1-496a-9a84-e05b92703ac5",
+      "action": "USER_LOGIN",
+      "targetUserId": "admin-001",
+      "details": "User Abdulkadir Kan (ak0000001) logged in from ::1",
+      "adminId": "admin-001",
+      "timestamp": "2026-01-01T11:08:50.975Z",
+      "ipAddress": "system"
+    }
+  ]
+}

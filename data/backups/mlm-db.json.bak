@@ -1,0 +1,43 @@
+{
+  "_backup_of": "../mlm-db.json",
+  "createdAt": "2026-01-04T00:00:00.000Z",
+  "note": "Backup of data/mlm-db.json prior to cleanup.",
+  "content": {
+    "users": [
+      {
+        "id": "admin-001",
+        "memberId": "ak0000001",
+        "fullName": "Abdulkadir Kan",
+        "email": "psikologabdulkadirkan@gmail.com",
+        "phone": "+90 542 578 37 48",
+        "role": "admin",
+        "referralCode": "AK0001",
+        "membershipType": "entry",
+        "isActive": true,
+        "careerLevel": {
+          "id": 7,
+          "name": "Nefs-i Kâmile"
+        },
+        "wallet": {
+          "balance": 50000
+        }
+      }
+    ],
+    "transactions": [],
+    "paymentRequests": [],
+    "settings": {
+      "systemSettings": {
+        "maxCapacity": 1000000,
+        "autoPlacement": true,
+        "registrationEnabled": true,
+        "maintenanceMode": false
+      },
+      "commissionSettings": {
+        "sponsorBonusRate": 10,
+        "careerBonusRate": 25,
+        "passiveIncomeRate": 5,
+        "systemFundRate": 60
+      }
+    }
+  }
+}

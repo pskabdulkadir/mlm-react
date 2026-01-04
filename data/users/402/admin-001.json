@@ -1,0 +1,26 @@
+{
+  "id": "admin-001",
+  "fullName": "Abdulkadir Kan",
+  "email": "psikologabdulkadirkan@gmail.com",
+  "phone": "+90 542 578 37 48",
+  "password": "$2b$10$4Iz2LH45NpA1kMK6WNVyUuuyvdTt2EAtzPD42dr7CO8LfxsiJVX2.",
+  "role": "admin",
+  "isActive": true,
+  "wallet": {
+    "balance": 0,
+    "totalEarnings": 0,
+    "sponsorBonus": 0,
+    "careerBonus": 0,
+    "passiveIncome": 0,
+    "leadershipBonus": 0
+  },
+  "careerLevel": {
+    "id": "1",
+    "name": "Nefs-i Emmare"
+  },
+  "referralCode": "ADMIN001",
+  "sponsorId": null,
+  "memberId": "ADMIN001",
+  "registrationDate": "2026-01-04T10:23:48.420Z",
+  "lastLoginDate": "2026-01-04T15:38:33.389Z"
+}

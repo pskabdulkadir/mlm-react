@@ -1,0 +1,11 @@
+## Replace `your.domain.com` with your actual domain and save as `Caddyfile`
+
+your.domain.com {
+    reverse_proxy app:3000
+    encode gzip
+}
+
+# If you prefer to use localhost for testing, use:
+# localhost:2015 {
+#   reverse_proxy app:3000
+# }

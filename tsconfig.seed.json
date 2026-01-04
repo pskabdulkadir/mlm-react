@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "outDir": "dist/seed",
+    "rootDir": ".",
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": false
+  },
+  "include": [
+    "server/scripts/**/*",
+    "server/seed-initial-users.ts",
+    "server/lib/**/*",
+    "shared/**/*"
+  ],
+  "exclude": [
+    "server/routes/**/*",
+    "server/index.ts"
+  ]
+}
